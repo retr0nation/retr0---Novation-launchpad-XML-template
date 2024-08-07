@@ -1,0 +1,2547 @@
+<midi app="Serato DJ Pro 3.0.12.266">
+    <control channel="1" event_type="Note On" control="66">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="17">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="67">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="16">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="1">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="52">
+        <userio event="click">
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </play>
+        </userio>
+        <userio event="output">
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="2">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="51">
+        <userio event="click">
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </eject>
+        </userio>
+        <userio event="output">
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="29"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="3">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="50">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="forward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="41"/>
+                    <alias name="forward" value="127"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="69">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="18">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="68">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="19">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="83">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="32">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="82">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="33">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="85">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="34">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="84">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="116">
+        <userio event="click">
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </play>
+        </userio>
+        <userio event="output">
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="35">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="0" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="4">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="48">
+        <userio event="click">
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </play>
+        </userio>
+        <userio event="output">
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="101">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="97">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" data_type="Absolute 7" control="11">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="7">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="98">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="54">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="forward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="41"/>
+                    <alias name="forward" value="127"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="6">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="99">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="55">
+        <userio event="click">
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </eject>
+        </userio>
+        <userio event="output">
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="29"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="80">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="112">
+        <userio event="click">
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </play>
+        </userio>
+        <userio event="output">
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+            <play deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="100">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="96">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="2" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="36">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="7">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="87">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="115">
+        <userio event="click">
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </eject>
+        </userio>
+        <userio event="output">
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="29"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="37">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="8">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="86">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="3" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="114">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="forward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="41"/>
+                    <alias name="forward" value="127"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="0">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="53">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="backward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="127"/>
+                    <alias name="forward" value="41"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="5">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="49">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="backward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="127"/>
+                    <alias name="forward" value="41"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="103">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="102">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="3" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="64">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="65">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="2" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="81">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="2" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="113">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="backward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="127"/>
+                    <alias name="forward" value="41"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="70">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="71">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="3" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="120"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="20">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="21">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="22">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="23">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="3"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="39">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="10">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="38">
+        <userio event="click">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any" behaviour="explicit"/>
+            </auto_loop_specific_length>
+        </userio>
+        <userio event="output">
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="80"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+            <auto_loop_specific_length deck_set="Default" deck_id="1" slot_id="9">
+                <translation action_on="any">
+                    <alias name="selected" value="0"/>
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </auto_loop_specific_length>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="119">
+        <userio event="click">
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="press" behaviour="explicit"/>
+            </eject>
+        </userio>
+        <userio event="output">
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="29"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+            <eject deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </eject>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="118">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="forward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="41"/>
+                    <alias name="forward" value="127"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="117">
+        <userio event="click">
+            <beat_jump deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="press" behaviour="static" static_value="backward"/>
+            </beat_jump>
+        </userio>
+        <userio event="output">
+            <beat_jump deck_set="Default" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="none" value="41"/>
+                    <alias name="backward" value="127"/>
+                    <alias name="forward" value="41"/>
+                </translation>
+            </beat_jump>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="104">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="0" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="105">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="1" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="106">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="2" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="107">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="3" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="108">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="4" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="109">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="5" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="110">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="6" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="111">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="7" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Control Change" control="74">
+        <userio event="click">
+            <play deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </play>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="24">
+        <userio event="click">
+            <sync deck_set="Sample Player" deck_id="1" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sync>
+        </userio>
+        <userio event="output">
+            <sync deck_set="Sample Player" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </sync>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="40">
+        <userio event="click">
+            <sync deck_set="Sample Player" deck_id="2" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sync>
+        </userio>
+        <userio event="output">
+            <sync deck_set="Sample Player" deck_id="2" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </sync>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="56">
+        <userio event="click">
+            <sync deck_set="Sample Player" deck_id="3" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sync>
+        </userio>
+        <userio event="output">
+            <sync deck_set="Sample Player" deck_id="3" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </sync>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="72">
+        <userio event="click">
+            <sync deck_set="Sample Player" deck_id="4" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sync>
+        </userio>
+        <userio event="output">
+            <sync deck_set="Sample Player" deck_id="4" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </sync>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="88">
+        <userio event="click">
+            <sync deck_set="Sample Player" deck_id="5" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sync>
+        </userio>
+        <userio event="output">
+            <sync deck_set="Sample Player" deck_id="5" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </sync>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="104">
+        <userio event="click">
+            <sync deck_set="Sample Player" deck_id="6" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sync>
+        </userio>
+        <userio event="output">
+            <sync deck_set="Sample Player" deck_id="6" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </sync>
+        </userio>
+    </control>
+    <control channel="1" event_type="Note On" control="120">
+        <userio event="click">
+            <sync deck_set="Sample Player" deck_id="7" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sync>
+        </userio>
+        <userio event="output">
+            <sync deck_set="Sample Player" deck_id="7" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="127"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </sync>
+        </userio>
+    </control>
+</midi>
