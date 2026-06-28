@@ -1,0 +1,25 @@
+name: Polish Repository
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  administration: write
+
+jobs:
+  polish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.repos.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              description: "Novation Launchpad Pro MKII user mode template by retr0",
+              topics: ["launchpad", "novation", "music-production", "midi", "ableton"]
+            });
