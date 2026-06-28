@@ -2,6 +2,8 @@
 
 Custom Novation Launchpad Pro MKII user mode template by **retr0**.
 
+[![retr0](https://img.shields.io/badge/retr0-retr0.ainet.solutions-00d4ff?style=for-the-badge)](https://retr0.ainet.solutions/)
+
 ## What's inside
 
 | File | Description |
@@ -21,4 +23,4 @@ Custom Novation Launchpad Pro MKII user mode template by **retr0**.
 
 ## Author
 
-Built by [retr0](https://github.com/retr0nation) · [AINET.Solutions](https://ainet.solutions)
+Built by [retr0](https://retr0.ainet.solutions/) · [AINET.Solutions](https://ainet.solutions)
