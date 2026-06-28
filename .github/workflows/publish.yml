@@ -7,9 +7,6 @@ on:
       - ".github/workflows/publish.yml"
   workflow_dispatch:
 
-permissions:
-  administration: write
-
 jobs:
   polish:
     runs-on: ubuntu-latest
